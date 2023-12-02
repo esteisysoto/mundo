@@ -1,0 +1,21 @@
+body{
+   background-image: s;
+    opacity: 14px;
+}
+
+
+.titul {
+    font-family: sans-serif;
+    font-feature-settings: "blwm";
+    width: 200px;
+}
+
+p{
+    border: 5px dotted red;
+    width: 250px;
+    padding: 20px;
+    
+}
+ body{
+    background-image: url();
+ }
